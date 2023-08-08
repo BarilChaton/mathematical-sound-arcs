@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  margin: 0rem;
+  overflow: hidden;
+}
+
+#paper {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  background: linear-gradient(217deg, rgba(244, 76, 123, 0.8), rgba(172, 58, 90, 0) 70.71%),
+            linear-gradient(127deg, rgba(114, 44, 118, 0.8), rgba(32, 17, 68, 0) 70.71%),
+            linear-gradient(336deg, rgba(3, 8, 31, 0.8), rgba(0, 0, 0, 0) 70.71%);
+}
