@@ -1,3 +1,3 @@
 # mathematical-sound-arcs
 
-A small thing i did for fun ¯\"\"_(ツ)_/¯
+A small thing i did for fun (●'◡'●)
